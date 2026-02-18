@@ -1,4 +1,4 @@
-# 🐼 Food Panda Clone
+# 🐼 Food Panda Clone 
 
 [cite_start]A lightweight delivery web application built to showcase core JavaScript proficiency and DOM manipulation. [cite: 81, 84]
 
