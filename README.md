@@ -2,7 +2,7 @@
 
 [cite_start]A lightweight delivery web application built to showcase core JavaScript proficiency and DOM manipulation. [cite: 81, 84]
 
-## 🚀 Features
+## 🚀 Features 
 
 - [cite_start]**Dynamic Rendering:** Interactive menu items rendered using Vanilla JavaScript. [cite: 82, 83]
 - [cite_start]**Custom Cart Logic:** Built a complete cart system without external frameworks. [cite: 83]
