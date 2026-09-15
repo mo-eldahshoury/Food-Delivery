@@ -2,6 +2,7 @@
 
 A lightweight delivery web application built to showcase core JavaScript proficiency and DOM manipulation. [cite: 81, 84]
 
+
 ## 🚀 Features
 
 - [cite_start]**Dynamic Rendering:** Interactive menu items rendered using Vanilla JavaScript. [cite: 82, 83]
